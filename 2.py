@@ -1,2 +1,1 @@
-#encoding:utf-8
-print('我')
+this is 1 about master
